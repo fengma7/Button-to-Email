@@ -1,4 +1,4 @@
-# Button-to-Email
+# Button to Email
 This is the code for an Arduino that would process a button click and send an email using webhooks. Furthermore the button would activate a set of buzzers that would ring for a set amount of time.  
   
 References:  
